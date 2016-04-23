@@ -1,7 +1,7 @@
 # hello-world
 Time honoured Repo
 
-# Sharath has edited the file and i'll be commiting this to the master repo.
+# Sharath has edited the file and commiting this to the master repo.
 
 # FOR XXX and Shanka, follow the below procedure,
 1. pull this repo
